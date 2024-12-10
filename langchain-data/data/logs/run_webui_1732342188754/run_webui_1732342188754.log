@@ -1,0 +1,6 @@
+2024-11-23 14:11:43,657 httpx        11163 INFO     HTTP Request: GET http://127.0.0.1:7861/tools "HTTP/1.1 200 OK"
+2024-11-23 14:11:48,809 httpx        11163 INFO     HTTP Request: GET http://127.0.0.1:7861/knowledge_base/list_knowledge_bases "HTTP/1.1 200 OK"
+2024-11-23 14:15:38,513 httpx        11163 INFO     HTTP Request: POST http://127.0.0.1:7861/knowledge_base/delete_knowledge_base "HTTP/1.1 200 OK"
+2024-11-23 14:17:20,339 httpx        11163 INFO     HTTP Request: POST http://127.0.0.1:7861/knowledge_base/upload_docs "HTTP/1.1 500 Internal Server Error"
+2024-11-23 14:17:24,245 httpx        11163 INFO     HTTP Request: POST http://127.0.0.1:7861/knowledge_base/search_docs "HTTP/1.1 200 OK"
+2024-11-23 14:17:25,954 httpx        11163 INFO     HTTP Request: POST http://127.0.0.1:7861/knowledge_base/search_docs "HTTP/1.1 200 OK"

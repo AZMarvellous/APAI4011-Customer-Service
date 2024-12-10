@@ -1,0 +1,46 @@
+2024-11-23 14:16:46,014 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.410769 seconds
+2024-11-23 14:16:46,427 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.807159 seconds
+2024-11-23 14:16:47,236 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.582794 seconds
+2024-11-23 14:16:48,822 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:16:52,825 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.378643 seconds
+2024-11-23 14:16:53,206 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.824018 seconds
+2024-11-23 14:16:54,033 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.699094 seconds
+2024-11-23 14:16:55,734 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:16:59,738 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.418039 seconds
+2024-11-23 14:17:00,158 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.821437 seconds
+2024-11-23 14:17:00,982 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.775304 seconds
+2024-11-23 14:17:02,823 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.456423 seconds
+2024-11-23 14:17:03,282 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.782505 seconds
+2024-11-23 14:17:04,067 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.524568 seconds
+2024-11-23 14:17:05,594 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:17:09,596 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.440231 seconds
+2024-11-23 14:17:10,038 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.990655 seconds
+2024-11-23 14:17:11,030 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.922435 seconds
+2024-11-23 14:17:12,955 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:17:16,959 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.436109 seconds
+2024-11-23 14:17:17,397 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.916856 seconds
+2024-11-23 14:17:18,316 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.914708 seconds
+2024-11-23 14:17:20,293 faiss.loader 11037 INFO     Loading faiss with AVX2 support.
+2024-11-23 14:17:20,332 faiss.loader 11037 INFO     Successfully loaded faiss with AVX2 support.
+2024-11-23 14:17:29,992 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.410106 seconds
+2024-11-23 14:17:30,404 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.865952 seconds
+2024-11-23 14:17:31,272 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.965522 seconds
+2024-11-23 14:17:33,240 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:17:37,243 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.419811 seconds
+2024-11-23 14:17:37,665 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.946487 seconds
+2024-11-23 14:17:38,614 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.823800 seconds
+2024-11-23 14:17:40,440 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:17:44,443 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.436961 seconds
+2024-11-23 14:17:44,882 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.900446 seconds
+2024-11-23 14:17:45,785 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.874476 seconds
+2024-11-23 14:17:47,733 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.469483 seconds
+2024-11-23 14:17:48,204 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.785594 seconds
+2024-11-23 14:17:48,992 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.545181 seconds
+2024-11-23 14:17:50,540 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:17:54,543 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.421474 seconds
+2024-11-23 14:17:54,966 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.926514 seconds
+2024-11-23 14:17:55,895 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.857170 seconds
+2024-11-23 14:17:57,754 chatchat.server.localai_embeddings 11037 WARNING  Retrying chatchat.server.localai_embeddings.embed_with_retry.<locals>._embed_with_retry in 4.0 seconds as it raised APIConnectionError: Connection error..
+2024-11-23 14:18:01,757 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.494778 seconds
+2024-11-23 14:18:02,254 openai._base_client 11037 INFO     Retrying request to /embeddings in 0.992534 seconds
+2024-11-23 14:18:03,249 openai._base_client 11037 INFO     Retrying request to /embeddings in 1.602237 seconds

@@ -58,11 +58,11 @@ Use ``RAG conversation`` with knowledge base ``Customer Service`` applied, and s
 We setup the prompt of the LLM like this:
 
 > You are an customer service specializt that specifically provide information for Chinese marchants who want to sell their products on Amazon. Never replied with "no answer based on exisiting information". Even if information contained in the knowledge base is no enough, you may mention everything you have relavant to the question as an answer.
-> ![1733818239994](images/README/1733818239994.png)
+> ![1733818239994](./md-src/prompt.png)
 
 Here is an example of a conversation we had:
 
-![1733818197407](images/README/1733818197407.png)
+![1733818197407](./md-src/conversation.png)
 
 Thanks for the talented developers of Langchain-Chatchat.
 

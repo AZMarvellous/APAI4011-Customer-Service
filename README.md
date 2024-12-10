@@ -1,12 +1,12 @@
 ## APAI4011 Project Group 8 Customer Service Demo File Instruction
 
-We used the open source "[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/blob/master/docs/contributing/README_dev.md)" Library for our Knowledge base and LLM management.
+We used the open-sourced "[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/blob/master/docs/contributing/README_dev.md)" Library for our Knowledge base and LLM management.
 
 The code is based on Langchain-chatchat source code **under Linux environment**.
 
 You also need to locally deploy another LLM service project called "[Xinference](https://inference.readthedocs.io/en/stable/getting_started/installation.html)" for running the LLM and Embedding model.
 
-* To replicate our project, you should create a separate virtual environment, download, and run the LLM ``llama-3.1-instruct`` and embedding``bge-m3`` with xinference.
+* To replicate our project, you should create a separate virtual environment, download, and run the LLM ``llama-3.1-instruct`` and embedding model``bge-m3`` with xinference.
 
 Create a vitual environment, make sure Python version is 3.11
 
